@@ -1,7 +1,7 @@
 {
   "name": "fundamentos",
   "version": "1.0.0",
-  "description": "",
+  "description": "desenvolvido por [Nathally Souza](https://github.com/nathyts)",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev app.ts",

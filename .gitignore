@@ -1,0 +1,16 @@
+# Ignorar arquivos compilados TypeScript
+*.js
+*.js.map
+
+# Ignorar a pasta node_modules (gerada pelo npm)
+node_modules/
+
+# Ignorar os arquivos de configuração do TypeScript
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# Ignorar arquivos de log
+*.log
+
+#Ignorar package-lock.json
+package-lock.json
